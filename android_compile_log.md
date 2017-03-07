@@ -1,3 +1,10 @@
+---
+title: Android Compile Log
+date: 2017-03-07 21:50:41
+tags: android
+---
+
+
 # 编译AOSP源码
 参考android open source project 文档 https://source.android.com/
 ## 1.环境搭建
